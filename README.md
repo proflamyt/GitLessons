@@ -1,1 +1,1 @@
-This is a new git repository
+# This is a new git repository
